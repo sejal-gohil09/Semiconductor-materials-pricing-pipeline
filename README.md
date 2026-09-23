@@ -3,7 +3,7 @@
 A multi-source data processing, analytics, and market intelligence pipeline designed to ingest 5 distinct semiconductor market datasets, perform data quality validation, model pricing extrapolations, and build executive reporting deliverables.
 
 ## 📁 Repository Structure
-
+```text
 semiconductor-materials-pricing-pipeline/
 ├── data/
 │   ├── raw/                 # Input datasets (.csv / .xlsx)

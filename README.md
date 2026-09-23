@@ -20,8 +20,8 @@ semiconductor-materials-pricing-pipeline/
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
 
-```markdown
-# Semiconductor Materials Pricing & Market Intelligence Pipeline
+
+**# Semiconductor Materials Pricing & Market Intelligence Pipeline**
 
 An end-to-end multi-source data processing, ETL validation, and predictive analytics pipeline designed for semiconductor material pricing data.
 

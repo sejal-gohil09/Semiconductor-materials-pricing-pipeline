@@ -20,9 +20,6 @@ semiconductor-materials-pricing-pipeline/
 ├── README.md                # Project documentation
 └── requirements.txt         # Dependencies
 
-#### **`README.md` File**
-Copy and paste this into your project's `README.md` on GitHub:
-
 ```markdown
 # Semiconductor Materials Pricing & Market Intelligence Pipeline
 

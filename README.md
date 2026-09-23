@@ -35,11 +35,6 @@ This project ingests multi-source data (raw feedstocks, specialty chemicals, fou
 - **Automated Excel Reporting**: Generates formatted, multi-tab `.xlsx` executive summary workbooks dynamically.
 
 ## ⚙️ Tech Stack
-- **Languages**: Python 3.x
-- **Libraries**: `pandas`, `numpy`, `scipy`, `openpyxl`, `matplotlib`, `seaborn`
+- Languages: Python 3.x
+- Libraries: `pandas`, `numpy`, `scipy`, `openpyxl`, `matplotlib`, `seaborn`
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/sejal-gohil09/semiconductor-materials-pricing-pipeline.git](https://github.com/sejal-gohil09/semiconductor-materials-pricing-pipeline.git)
-   cd semiconductor-materials-pricing-pipeline
